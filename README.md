@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tamilpriya
+- 🦋 I’m a social butterfly
+- 🌱 I’m currently working in C# .NET
+- 💞️ I’m looking to collaborate on dev projects
+- 📫 How to reach me tamilpriya.thangaraju@syncfusion.com
